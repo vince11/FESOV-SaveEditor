@@ -1,0 +1,179 @@
+﻿<Window x:Class="FESOVSE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wpfExt="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:FESOVSE"
+        xmlns:sp="clr-namespace:FESOVSE.XMLProperties"
+        mc:Ignorable="d"
+        Title="FE SOV Save Editor" Height="480" Width="720" ResizeMode="CanMinimize">
+
+
+    <StackPanel>
+
+        <Menu x:Name="menu" Height="20" Margin="0,0,0,5">
+            <MenuItem Header="File">
+                <MenuItem x:Name ="openFile" Click="openFile_Click" Header="Open"/>
+                <MenuItem x:Name ="saveFile" Click="saveFile_Click" Header="Save"/>
+            </MenuItem>
+            <MenuItem x:Name="help" Header="Help"/>
+        </Menu>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Units" Grid.Column="0" FontWeight="Bold" Margin="5 0"/>
+            <TextBlock Text="Description" Grid.Column="1" FontWeight="Bold" Margin="5 0"/>
+        </Grid>
+
+        <Grid Height="400">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+
+            <Border BorderBrush="Black" BorderThickness="0.5" Margin="5" Grid.Column="0">
+                <ListBox x:Name="unitList">
+                </ListBox>
+            </Border>
+
+            <Border BorderBrush="Black" BorderThickness="0.5" Margin="5" Grid.Column="1">
+                <!-- Unit Description Panel -->
+                <StackPanel>
+                    <!-- Item and Forges Panel-->
+                    <Grid Margin="0 5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+                            <TextBlock Text="Held Item" FontWeight="DemiBold" Margin="5 5"/>
+                            <ComboBox x:Name="cbItem" Margin="5 0"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Text="Forges" FontWeight="DemiBold" Margin="5 5"/>
+                            <ComboBox x:Name="cbForge" Margin="5 0"/>
+                        </StackPanel>
+                    </Grid>
+                    
+                    <!-- Contains Stats and Class Panels-->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+
+                        <!-- Stats Panel -->
+                        <StackPanel Grid.Column="0">
+                            <!-- Level Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Level" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown sp:StatProperty.Stat="Level"
+                            Increment="1"  Grid.Column="1"
+                            Maximum="20" Minimum="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Experience Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Experience" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Experience"
+                            Increment="1"  Grid.Column="1"
+                            Maximum="99" Minimum="0" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- HP Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="HP" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="HP"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Attack Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Attack" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Attack"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Skill Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Skill" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Skill"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Speed Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Speed" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Speed"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Luck Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Luck" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Luck"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Defense Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Defense" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Defense"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                            <!-- Resistance Panel-->
+                            <Grid Margin="5 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Grid.Column="0" Text="Resistance" FontWeight="DemiBold"/>
+                                <wpfExt:IntegerUpDown  sp:StatProperty.Stat="Resistance"
+                            Increment="1"  Grid.Column="1" ClipValueToMinMax="True"/>
+                            </Grid>
+                        </StackPanel>
+                        
+                        <!-- Class Panel -->
+                        <StackPanel Grid.Column="1">
+                            <TextBlock Text="Class" FontWeight="DemiBold" Margin="5 5"/>
+                            <ComboBox x:Name="cbClass" Margin="5 0"/>
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+                
+                
+            </Border>
+        </Grid>
+
+    </StackPanel>
+</Window>

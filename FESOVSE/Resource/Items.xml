@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item id="03" hex="8AD38FE22E1C0C74"  name="Iron Sword">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="04" hex="25B157CE1DCC106C" name="Steel Sword">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="05" hex="817ADFB445F72C60"  name="Silver Sword">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="06" hex="2018E4D160272E71" name="Brave Sword">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="07" hex="09126F92F1FC0179" name="Shadow Sword">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="08" hex="AD1E6B15533861C8" name="Lightning Sword">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="09" hex="881E6C441AE01697" name="Blessed Sword">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="0A" hex="8C31F31C261AE174" name="Royal Sword">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="0B" hex="FC982ADF9A9FDF3B" name="Falchion">
+    <description maxStars="1" isDLC ="false"/>
+  </item>
+  <item id="0C" hex="AFAAFA440FF0EF2D" name="Astra">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="0D" hex="11D2EB9D4B4183D5" name="Golden Dagger">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="0E" hex="5C8496B69A0E85AF" name="Zweihander">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="0F" hex="6C45B7C2FE5EAE1F" name="Ladyblade">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="10" hex="BBC378228B261D80" name="Mercurius">
+    <description maxStars="1" isDLC ="false"/>
+  </item>
+  <item id="11" hex="853B001009099B7D" name="Beloved Zofia">
+    <description maxStars="1" isDLC ="false"/>
+  </item>
+  <item id="12" hex="43885CCF8F8AD085" name="Ilwoon">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="13" hex="607F8B1DF2CBAB0C" name="Rapier">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="EE" hex="DCFDB2D2A0123B6C" name="Venin Sword">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="15" hex="32D48FE2B81C0C74" name="Iron Lance">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="16" hex="CDB157CEA7CC106C" name="Steel Lance">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="17" hex="297BDFB4CFF72C60" name="Silver Lance">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="18" hex="2DD5F1C1DB5FA065" name="Javelin">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="19" hex="3C796FFDEE6E2408" name="Ridersbane">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="1A" hex="301F6C44A4E01697" name="Blessed Lance">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="1B" hex="68ED7C8A463CC1F9" name="Gradivus">
+    <description maxStars="1" isDLC ="false"/>
+  </item>
+  <item id="1C" hex="9169F6440B7BED2D" name="Sol">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="1D" hex="D32B75F531E21522" name="Duma's Lance">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="1E" hex="CFB60FC9E5D7749D" name="Emperor Lance">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="1F" hex="1F48B42EA552DB74" name="Kriemhild">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="20" hex="A07CB674EEE584D2" name="Romphaia">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="21" hex="8B61DDC1AB01ADCF" name="Saunion">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="24" hex="8D6FDC6133AD930B" name="Devil Axe">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="26" hex="4CD48FE2F61C0C74" name="Iron Bow">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="27" hex="E7B157CEE5CC106C" name="Steel Bow">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="28" hex="437BDFB40DF82C60" name="Silver Bow">
+    <description maxStars="5" isDLC ="false"/>
+  </item>
+  <item id="29" hex="4A1F6C44E2E01697" name="Blessed Bow">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="2A" hex="7489F144267FEA2D" name="Luna">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="2B" hex="A7FEFE666F899B97" name="Parthia">
+    <description maxStars="1" isDLC ="false"/>
+  </item>
+  <item id="2C" hex="BF9C9E9997D50F04" name="Mila's Bow">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="2D" hex="4508F744B1D3ED2D" name="Longbow">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="2E" hex="329783E87EB03950" name="Killer Bow">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="2F" hex="D1916B6B8B372D67" name="Radiant Bow">
+    <description maxStars="3" isDLC ="false"/>
+  </item>
+  <item id="F0" hex="9EFEB2D268133B6C" name="Venin Bow">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="81" hex="5CCB45C184B59D66" name="Leather Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="82" hex="E6D38FE2781C0C74" name="Iron Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="83" hex="81B157CE67CC106C" name="Steel Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="84" hex="DA5BBE16328FBB02" name="Rion Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="85" hex="34F1096628767EA5" name="Fugue Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="86" hex="DD7ADFB48FF72C60" name="Silver Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="87" hex="E41E6C4464E01697" name="Blessed Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="88" hex="9AA838E154CE1072" name="Dracoshield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="89" hex="A2F85B1D981BEA34" name="Hexlock Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="8A" hex="83B60FC9A5D7749D" name="Emperor Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="8B" hex="872B75F5F1E11522" name="Duma's Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="8C" hex="E831F31C701AE174" name="Royal Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="F2" hex="03809AB0FB940128" name="Sage's Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="8E" hex="3D7A35E6D96DE32C" name="Blessed Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="8F" hex="EF6370F30913ACAF" name="Angel ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="90" hex="8B7B9ED9F9B53741" name="Speed Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="91" hex="CD998E6CBF13C6D6" name="Mage Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="92" hex="6401BD3C4E1A54AC" name="Prayer Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="93" hex="957FD3A4051CEF58" name="Grimoire Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="94" hex="BCB96839DEB9A0B7" name="Coral Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="95" hex="EA6036814E09723F" name="Mila's Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="96" hex="95F17788BB4AFCFF" name="Animus Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="97" hex="88989925DC76E413" name="Demon Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="98" hex="CE37AFD73EFDB3B9" name="Keepsake Ring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="9A" hex="79D52D915932B0A7" name="Gossamer Hair">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="9B" hex="9336F9E83BFE0F31" name="Dragon Scale">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="9E" hex="56B9322A84DDC0CF" name="Bear Carving">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A1" hex="73CC5BB88F7B7E32" name="Coral Fragment">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A2" hex="278F97B48F18625F" name="Black Pearl">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A3" hex="CDF76E0FB9DA2012" name="Gargoyle Ear">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A4" hex="B2528FA39EE90F38" name="Bonewalker Oil">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A5" hex="E57323BE6BD1CA1E" name="Red Tricorn">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A6" hex="F000BF92A2DA2BE2" name="Dubious Mask">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A7" hex="E12A75F569E11522" name="Duma's Helm">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A8" hex="10F23BFE14814C2A" name="Mila's Diadem">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="A9" hex="7130199F811B1758" name="Ale">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AA" hex="C0F21FE304C5EA90" name="Leftover Ale">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AB" hex="5D59FFA0FDAB0659" name="Soup">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AC" hex="82D794FBC6A6BDBE" name="Cold Soup">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AD" hex="E17451D5FF84DD6C" name="Wine">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AE" hex="81268966636A6B39" name="Garlic">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AF" hex="B60DA9070C8A2275" name="Ram Wine">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B0" hex="16430BAB3CCA525C" name="Drinking Water">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B1" hex="22C5909F3AB322F4" name="Duma Moss">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B2" hex="698A03A32528055A" name="Herring">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B3" hex="17F9317B0B986FEA" name="Dagon Fillet">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B4" hex="26E132D4E841A56C" name="Yogurt">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B5" hex="4E9640FE948F72B7" name="Medicinal Syrup">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B6" hex="B471B4F0EE748F10" name="Orange">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B7" hex="E19EE72E11B41B64" name="Exotic Spice">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B8" hex="FB957930131BF52C" name="Sausage">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="B9" hex="FE061EE300265829" name="Dried Shieldfish">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="BA" hex="2AC1886654236B39" name="Carrot">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="BB" hex="64B292A33CBC4B5A" name="Butter">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="BC" hex="9C35ABC45E0B440A" name="Honey">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="BD" hex="CD40EF4423AFE92D" name="Ham">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="BE" hex="924BEF44B8B6E92D" name="Bread">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="BF" hex="C70642040DF435F8" name="Leftover Bread">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C0" hex="1D258EB47B3E64B1" name="Bread Piece">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C1" hex="585CE43B7A20C642" name="Hard Bread">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C3" hex="F3B942CB8D415D03" name="Raw Meat">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C2" hex="955AB3EE379C8184" name="Dried Meat">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C4" hex="C88EB619042B7EDB" name="Mana Herbs">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C5" hex="F5976CBFBFE70E64" name="Flour">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C6" hex="AD518869ADBB76FE" name="Holey Cheese">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C7" hex="543823BB90CFD89F" name="Blue Cheese">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C8" hex="49C7276B9B6DA1CB" name="Sweet Cookie">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="C9" hex="44DD2CBA4EA37E08" name="Pegasus Cheese">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="CA" hex="9850EAEED257BA56" name="Nectar">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="CB" hex="2274CEFFD00AA580" name="Fruit of Life">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="CC" hex="48A5A46D16E672AF" name="Ambrosia">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="CD" hex="6975D32CC122A85C" name="Golden Apple">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="CE" hex="28BD71A1080A3F59" name="Soma">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="CF" hex="46EC8A6036AAAA89" name="Nethergranate">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="D6" hex="F3EC713E0B37A4B8" name="Cell Key">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="90" hex="3911D3A8CB6CB524" name="Aquarius Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="91" hex="FD6911BC4BB65DD9" name="Pisces Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="92" hex="AC4098C602180F79" name="Aries Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="93" hex="20826A2EDE376C81" name="Taurus Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="94" hex="1F090B00DD40320F" name="Gemini Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="95" hex="20D192B208A16554" name="Cancer Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="96" hex="618E924B73045086" name="Leo Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="97" hex="A0F8123C08B3DC3E" name="Virgo Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="98" hex="9B0B8322431A4532" name="Libra Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="99" hex="D062142AB8DE5D15" name="Scorpio Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="9A" hex="C49DF2EE20D85BD0" name="Sagittarius Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="9B" hex="2FBF8551F7BBE96C" name="Capricorn Shard">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="9C" hex="F49FA24BC0B65986" name="Star Jacinth">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="F3" hex="97AC3CA487559F5A" name="Boots">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="AF" hex="D10B8814851CBEB0" name="Pitchfork">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="B0" hex="F42877746A55E422" name="Fernand's Lance">
+    <description maxStars="5" isDLC ="true"/>
+  </item>
+  <item id="B1" hex="00A148E6AC5252CA" name="Python's Bow">
+    <description maxStars="5" isDLC ="true"/>
+  </item>
+  <item id="B2" hex="10A0D3580A8A6D19" name="Clair's Lance">
+    <description maxStars="4" isDLC ="true"/>
+  </item>
+  <item id="B3" hex="2F85676E7BACF90E" name="Clive's Lance">
+    <description maxStars="6" isDLC ="true"/>
+  </item>
+  <item id="AE" hex="7951A6D741A9AE6D" name="Talisman">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+  <item id="9F" hex="F69DF390EEEF7E4E" name="Trainee Lance">
+    <description maxStars="5" isDLC ="true"/>
+  </item>
+  <item id="A0" hex="C040317E1A9991E6" name="Wayward Lance">
+    <description maxStars="5" isDLC ="true"/>
+  </item>
+  <item id="A1" hex="8D66699685BD8746" name="Warrior's Sword">
+    <description maxStars="4" isDLC ="true"/>
+  </item>
+  <item id="B4" hex="3F8B6185A74E25D8" name="Lukas Shield">
+    <description maxStars="0" isDLC ="true"/>
+  </item>
+
+  <item id="30" hex="141E9F96B2D20A40" name="Exalted Falchion">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="31" hex="F8924A664C9D5360" name="Parallel Falchion">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="32" hex="2CE218543E19A26E" name="Ragnell">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="33" hex="E9A97964D904B73A" name="Binding Blade">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="34" hex="37642AE3AB8C5B73" name="Yato">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="35" hex="422E84EC14C0F8F2" name="Rusted Sword (Iron)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="36" hex="8D2D84EC83BFF8F2" name="Rusted Sword (Steel)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="37" hex="59CBCFCE17E0C117" name="Rusted Sword (Shadow)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="38" hex="E01ADECE069ACA17" name="Rusted Sword (Brave)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="39" hex="D6E8DACEC85BC817" name="Rusted Sword (Astra)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="3A" hex="B42D84EC86BFF8F2" name="Rusted Sword (Venin)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="F7" hex="120BE413EC355676" name="Seven Sword">
+    <description maxStars="2" isDLC ="false"/>
+  </item>
+  <item id="3B" hex="4A0706ED4A7B37F3" name="Rusted Lance (Iron)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="3C" hex="950606EDB97A37F3" name="Rusted Lance (Steel)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="3D" hex="B8A7D6CEC4E6C517" name="Rusted Lance (Sol)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="3E" hex="BC0606EDBC7A37F3" name="Rusted Lance (Venin)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="EF" hex="84FEB2D22A133B6C" name="Venin Lance">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="3F" hex="BC1F1AED4CAA53F3" name="Rusted Bow (Iron)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="40" hex="071F1AEDBBA953F3" name="Rusted Bow (Steel)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="41" hex="051DAAF017270C6D" name="Rusted Bow (Luna)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="42" hex="2E1F1AEDBEA953F3" name="Rusted Bow (Venin)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="43" hex="AE49CBEC8A631AF3" name="Rusted Shield (Iron)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="44" hex="F948CBECF9621AF3" name="Rusted Shield (Steel)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="45" hex="A249CBEC66631AF3" name="Rusted Shield (Draco)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="F8" hex="3AD1E38FA0454CF6" name="Eleven Shield">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="48" hex="6C456BB9E4B8EC45" name="Rusted Ring (Demon)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="47" hex="1B5877B9D13AF445" name="Rusted Ring (Angel)">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+  <item id="46" hex="D3FF5FD841D703D0" name="Rusted Axe">
+    <description maxStars="0" isDLC ="false"/>
+  </item>
+</root>

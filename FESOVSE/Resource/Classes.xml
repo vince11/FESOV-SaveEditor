@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <class id="C51B98DC5787885C" name="Villager (M)"/>
+  <class id="831A98DC2786885C" name="Villager (F)"/>
+  <class id="4AC058885C6D1EBF" name="Cavalier (M)"/>
+  <class id="08BF58882C6C1EBF" name="Cavalier (F)"/>
+  <class id="89A60099B78ACB0C" name="Paladin (M)"/>
+  <class id="47A500998789CB0C" name="Paladin (F)"/>
+  <class id="BD41DF7E3385F1C6" name="Gold Knight (M)"/>
+  <class id="7B40DF7E0384F1C6" name="Gold Knight (F)"/>
+  <class id="0FFE1B4AA175776F" name="Soldier"/>
+  <class id="A612F3C21E68886D" name="Knight"/>
+  <class id="F6DB920958FF7BF2" name="Baron"/>
+  <class id="5A40290862B10470" name="Mercenary"/>
+  <class id="66F4C9C39A01F651" name="Myrmidon"/>
+  <class id="52CF17AB9A7B8DCA" name="Dread Fighter"/>
+  <class id="E3E9012321FF7726" name="Archer"/>
+  <class id="E3E9012321FF7726" name="Sniper"/>
+  <class id="38B628F2D6A2A4F3" name="Bow Knight"/>
+  <class id="92F226DE6E78A15D" name="Fighter"/>
+  <class id="5A04E7044433696E" name="Hero"/>
+  <class id="DD0EAFB1433FCFCC" name="Mage (M)"/>
+  <class id="9B0DAFB1133ECFCC" name="Mage (F)"/>
+  <class id="39DC3BC6D5C02953" name="Sage"/>
+  <class id="9C62D71350DE579C" name="Pegasus Knight"/>
+  <class id="D74265C1A194D89A" name="Falcon Knight"/>
+  <class id="69705A3B5F5180C6" name="Cleric"/>
+  <class id="F903575FEB1ECE95" name="Saint"/>
+  <class id="20FDDBEAF653E363" name="Priestess (Mage F)"/>
+  <class id="27FCDBEA4553E363" name="Priestess (Celica)"/>
+  <class id="E8A51124186AFE85" name="Princess"/>
+  <class id="F7F99AE449837761" name="Boy"/>
+  <class id="B5F89AE419827761" name="Girl"/>
+  <class id="9742C34037AEFAD2" name="Lord (Marth)"/>
+  <class id="0942133AA9DEAFCF" name="Hero (Ike)"/>
+  <class id="EFB6BE25D74AABC5" name="Lord (Lucina)"/>
+  <class id="FA8BBF2522E0ABC5" name="Tactician (Robin)"/>
+  <class id="185A06A44A912675" name="Lord (Roy)"/>
+  <class id="503F90DB3CD08E74" name="Lord (CorrinM)"/>
+  <class id="0E3E90DB0CCF8E74" name="Lord (CorrinF)"/>
+  <class id="D964005DA93AA3A3" name="Conqueror (DLC)"/>
+  <class id="81F6224C9BE113CE" name="Rigain (DLC)"/>
+  <class id="7460F8D7AC561E25" name="Spartan (DLC)"/>
+  <class id="D6402D042A30E3D3" name="Oliphantier (DLC)"/>
+  <class id="572032FD3F4049A8" name="Exemplar (DLC)"/>
+  <class id="E78EF6EE29DD61B3" name="Guru (DLC)"/>
+  <class id="E5588604F5D2C4FE" name="Harrier (DLC)"/>
+  <class id="398FBB505747C11F" name="Skogul (DLC)"/>
+  <class id="D0537D79EED22FFD" name="Yasha (DLC)"/>
+  <class id="CEAF96134A701BC4" name="Enchantress (DLC)"/>
+  <class id="02825A5FA20BD095" name="Fiend"/>
+  <class id="0D0D28E04D0CA05D" name="Brigand"/>
+  <class id="BE0BFAD1864030EB" name="Arcanist"/>
+  <class id="9037EFA118C296D4" name="Cantor"/>
+  <class id="08815A5FAE0AD095" name="Witch"/>
+  <class id="C56EE1B4938C944D" name="Revenant"/>
+  <class id="377579B889EE5A4F" name="Entombed"/>
+  <class id="664B89FC580A3B3C" name="Bonewalker"/>
+  <class id="6F4E9854F78B45AC" name="Lich"/>
+  <class id="3EC029DFF46EE535" name="Gargoyle"/>
+  <class id="B8875909E4B75FF2" name="Deathgoyle"/>
+  <class id="D81A5502DE4A9974" name="Necrodragon"/>
+  <class id="224C595F145FCF95" name="White Dragon"/>
+  <class id="FFE63DB7FD3ABF4E" name="Mogall"/>
+  <class id="9A19565FB2A7CD95" name="Fell God"/>
+  <class id="23D51B8BCB5E75ED" name="Mila's Servant"/>
+  <class id="C68A3E760EE2B9D5" name="Duma's Apostle"/>
+  <class id="AC37A3DAD8BDFA7F" name="Dracul"/>
+  <class id="84E41FF620BD3979" name="Titan"/>
+  <class id="83E832D5176CE059" name="Guardian"/>
+  <class id="68ADE887607F0182" name="Garuda"/>
+  <class id="6B9C3A078F24E84E" name="Vestal"/>
+  <class id="FB8D384AD9E62632" name="Fafnir"/>
+  <class id="88A21EB5768BB34D" name="Dagon"/>
+  <class id="BA7A9509B2027EF2" name="Balor"/>
+  <class id="15538ABD115E6820" name="Deimos"/>
+  <class id="7F0C525F3B40CB95" name="Fire Dragon"/>
+  <class id="F119565FDFA7CD95" name="Fell Dragon"/>
+</root>
