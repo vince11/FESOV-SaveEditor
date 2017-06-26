@@ -23,5 +23,7 @@ Serenes Forest for character base and max stats: https://serenesforest.net/fire-
 Inspired by FeTwiddler by Soaprman: https://github.com/Soaprman/FEFTwiddler 
 
 (Learned some file organisations and basic save editor code stuff)
+
+Extended WPFToolkit for the numeric up downs: http://wpftoolkit.codeplex.com/
   
 
