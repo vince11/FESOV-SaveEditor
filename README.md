@@ -24,6 +24,6 @@ A Fire Emblem Echoes: Shadows of Valentia, Minimal Character Save Editor
 
     (Learned some file organisations and basic save editor code stuff)
 
-  * Extended WPFToolkit for the numeric up downs: http://wpftoolkit.codeplex.com/
+  * Extended WPFToolkit for the numeric up downs (apparently WPF doesn't have it): http://wpftoolkit.codeplex.com/
   
 
