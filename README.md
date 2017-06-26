@@ -12,18 +12,18 @@ A Fire Emblem Echoes: Shadows of Valentia, Minimal Character Save Editor
 
 ### Resources
 
-Hex Values of items From these people:
-  * https://docs.google.com/spreadsheets/d/1VY_4xG2Ehlj8vh_TyhuUyoRoTR9FImzQCorF3LgzuQI/edit#gid=1796432204
-  * https://serenesforest.net/forums/index.php?/topic/71279-shadows-of-valentia-save-editingsave-bank/
+  * Hex Values of items From these people:
+    * https://docs.google.com/spreadsheets/d/1VY_4xG2Ehlj8vh_TyhuUyoRoTR9FImzQCorF3LgzuQI/edit#gid=1796432204
+    * https://serenesforest.net/forums/index.php?/topic/71279-shadows-of-valentia-save-editingsave-bank/
 
-Info on character blocks: https://gbatemp.net/threads/research-fe-sov-save-discussion.471890/
+  * Info on character blocks: https://gbatemp.net/threads/research-fe-sov-save-discussion.471890/
 
-Serenes Forest for character base and max stats: https://serenesforest.net/fire-emblem-echoes-shadows-valentia/
+  * Serenes Forest for character base and max stats: https://serenesforest.net/fire-emblem-echoes-shadows-valentia/
 
-Inspired by FeTwiddler by Soaprman: https://github.com/Soaprman/FEFTwiddler 
+  * Inspired by FeTwiddler by Soaprman: https://github.com/Soaprman/FEFTwiddler 
 
-(Learned some file organisations and basic save editor code stuff)
+    (Learned some file organisations and basic save editor code stuff)
 
-Extended WPFToolkit for the numeric up downs: http://wpftoolkit.codeplex.com/
+  * Extended WPFToolkit for the numeric up downs: http://wpftoolkit.codeplex.com/
   
 
