@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <root>
   <class id="C51B98DC5787885C" name="Villager (M)"/>
   <class id="831A98DC2786885C" name="Villager (F)"/>
@@ -15,7 +15,7 @@
   <class id="66F4C9C39A01F651" name="Myrmidon"/>
   <class id="52CF17AB9A7B8DCA" name="Dread Fighter"/>
   <class id="E3E9012321FF7726" name="Archer"/>
-  <class id="E3E9012321FF7726" name="Sniper"/>
+  <class id="B28F72B8D40E4C9A" name="Sniper"/>
   <class id="38B628F2D6A2A4F3" name="Bow Knight"/>
   <class id="92F226DE6E78A15D" name="Fighter"/>
   <class id="5A04E7044433696E" name="Hero"/>
