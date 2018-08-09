@@ -1,4 +1,4 @@
-# FESOV-SaveEditor
+# FESOV-SaveEditor (Not maintained anymore)
 A Fire Emblem Echoes: Shadows of Valentia, Minimal Character Save Editor
 
 ### Features
