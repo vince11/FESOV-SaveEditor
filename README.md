@@ -1,7 +1,7 @@
-# FESOV-SaveEditor
+# FESOV-SaveEditor ( Web Version Here: https://vince11.github.io/echoes-se/ Github: https://github.com/vince11/echoes-se )
 A Fire Emblem Echoes: Shadows of Valentia, Minimal Character Save Editor
 
-Web Version Here: https://vince11.github.io/echoes-se/ Github: https://github.com/vince11/echoes-se
+## For the Web Version, make sure to rename the downloaded file back to its original name. (If original file is "Chapter0_dec", make sure the downloaded file is renamed to "Chapter0_dec" if file name comes out different due to duplication).
 
 ### Features
   * Able to edit character class, inventory and stats
